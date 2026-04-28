@@ -110,4 +110,3 @@ export default async function handler(req, res) {
       res.end("Bad Gateway: Tunnel Failed");
     }
   }
-}
